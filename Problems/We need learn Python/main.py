@@ -1,0 +1,6 @@
+print('''WE NEED
+
+TO LEARN PYTHON
+
+AS QUICKLY AS POSSIBLE''')
+
